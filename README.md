@@ -12,7 +12,7 @@ Dev OS Terraform Provisioning 을 사용해 AWS EC2 를 생성하는 예제 입�
   - 예: ami-xxxxxxxxxxx
 - sec_group: 시큐리티 그룹 아이디를 입력하세요. 
   - 예: [sg-xxxxxxxxxxx]
-- vpc_subnet_id: 서브넷의 아이디를 입력하세요.  -
+- vpc_subnet_id: 서브넷의 아이디를 입력하세요.
   - 예: vpc-subnet-id
 - instance_name: 생성하고자 하는 인스턴스의 이름을 입력하세요.
   - 예: instance-name
