@@ -5,9 +5,9 @@ Dev OS Terraform Provisioning 을 사용해 AWS EC2 를 생성하는 예제 입�
 
 ## Provisioning 생성 시 Extra Variables 입력
 - key_pair: 키 페어 이름을 입력하세요. 
-  - 예: key-name
+  - 예: "key-name"
 - region: 리전 아이디를 입력하세요. 
-  - 예: ap-northeast-0
+  - 예: "ap-northeast-0"
 - security_groups: 시큐리티 그룹 아이디를 입력하세요. 
   - 예: "[sg-xxxxxxxxxxx]"
 - subnet_id: 서브넷의 아이디를 입력하세요.
